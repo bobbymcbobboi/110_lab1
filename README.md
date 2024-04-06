@@ -1,1 +1,1 @@
-# 110_lab1
+my favorite programming language is typescript
