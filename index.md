@@ -13,7 +13,7 @@ console.log('hello world')
 
 [go to top](#ryans-website)
 
-[go to readme](index.md)
+[go to readme](README.md)
 
 favorite foods:
 - spaghetti
